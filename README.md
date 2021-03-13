@@ -12,3 +12,5 @@ Steps:
 6. If you have finished, press 'q' key to quit the program. 
 
 Prerequisite: install xdo library and opencv library.
+
+N.B: Set the value for max_value_xroi and max_value_yroi according to the size of your webcam.
