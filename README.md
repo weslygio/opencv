@@ -9,6 +9,6 @@ Steps:
 3. Press 's' key.
 4. Change your current window to the game and aim the mouse at the game.
 5. Start your game, and close your hand to simulate click. Open back your hand quickly.
-6.If you have finished, press 'q' key to quit the program. 
+6. If you have finished, press 'q' key to quit the program. 
 
 Prerequisite: install xdo library and opencv library.
